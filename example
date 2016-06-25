@@ -1,1 +1,1 @@
-curl -X POST -H "Cache-Control: no-cache" -H "Postman-Token: 2130b28a-8ab8-33c4-ce69-c921b42c2628" -H "Content-Type: application/x-www-form-urlencoded" -d 'email=test@domain.com&user_API_token=ggd0143305f60a131dc5d458431e756e7d1b19ba&=' "https://api.evasrv.com/email_verification/"
+curl -X POST -H "Cache-Control: no-cache" -H "Content-Type: application/x-www-form-urlencoded" -d 'email=test@domain.com&user_API_token=ggd0143305f60a131dc5d458431e756e7d1b19ba&=' "https://api.evasrv.com/email_verification/"
