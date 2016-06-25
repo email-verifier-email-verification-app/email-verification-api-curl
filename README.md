@@ -1,6 +1,6 @@
 Email Verifier App
 =========
-Intros, walkthroughs, how-tos, demos, and docs for the Email Verifier API - cURL Request. More details can be found on our website - www.emailverifierapp.com including information on our innovative 12 stage cleaning process. 
+Intros, walkthroughs, how-tos, demos, and docs for the Email Verifier API - <strong>cURL Request</strong>. More details can be found on our website - www.emailverifierapp.com including information on our innovative 12 stage cleaning process. 
 
 Getting Started with Email Verifier
 --------------------------------
